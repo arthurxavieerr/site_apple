@@ -176,7 +176,9 @@ header{
     letter-spacing: 40px;
 }
 
-.footer{
+.footer_content{
+    width: 100%;
+    height: auto;
     background-color: #ccc;
     color: #fff;
     height: 100px;
@@ -186,22 +188,22 @@ header{
     justify-content: center;
 }
 
-.footer p{
+.footer_content p{
     margin: 0;
     text-shadow: 4px 4px 18px rgba(0,0,0,0.6);
 }
 
-.footer a{
+.footer_content a{
     color: #000;
     text-decoration: none;
     text-shadow: 4px 4px 18px rgba(0,0,0,0.6);
 }
 
-.footer{
+.footer_content{
     font-size: 15px;
     font-weight: 300;
 }
 
-.footer a:hover{
+.footer_content a:hover{
     color: #fff;
 }
