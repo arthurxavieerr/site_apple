@@ -2,8 +2,6 @@
 body{
     font-family: Poppins;
     margin: 0;
-    background-color: #fff;
-    color: #000;
     display: block;
     user-select: none;
 }
